@@ -18,7 +18,11 @@ On some linux distros you may need root access rights to access the framebuffer,
 If you don't see anything you probably have to switch to console mode because your window manager interferes with your framebuffer. Just switch to a console with CTRL+ALT+F1.
 
 Check out the tutorials how to create this step-by-step :
-![Part one](http://milgra.com/ray-tracing-part-one.html)
-![Part two](http://milgra.com/ray-tracing-part-two.html)
-![Part three](http://milgra.com/ray-tracing-part-three.html)
-![Part four](http://milgra.com/ray-tracing-part-four.html)
+
+[Part one](http://milgra.com/ray-tracing-part-one.html)
+
+[Part two](http://milgra.com/ray-tracing-part-two.html)
+
+[Part three](http://milgra.com/ray-tracing-part-three.html)
+
+[Part four](http://milgra.com/ray-tracing-part-four.html)
